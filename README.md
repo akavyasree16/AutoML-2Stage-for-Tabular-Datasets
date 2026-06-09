@@ -1,7 +1,5 @@
 # 🚀 AutoML 2Stage for Tabular Datasets
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://automl-2stage-for-tabular-datasets-mbv6hyvpfgbp6g8harj7jl.streamlit.app/)
-
 ### Live Demo
 https://automl-2stage-for-tabular-datasets-mbv6hyvpfgbp6g8harj7jl.streamlit.app/
 
