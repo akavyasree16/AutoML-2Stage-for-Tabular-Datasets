@@ -3,6 +3,8 @@
 ### Live Demo
 https://automl-2stage-for-tabular-datasets-mbv6hyvpfgbp6g8harj7jl.streamlit.app/
 
+---
+
 An automated machine learning (AutoML) system that automatically detects the problem type, evaluates multiple machine learning algorithms, selects the top-performing models, performs hyperparameter tuning, and returns the best model.
 
 Built using Python, Scikit-Learn, XGBoost, and Streamlit.
