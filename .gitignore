@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+best_model.pkl
+
+.ipynb_checkpoints/
+
+.streamlit/secrets.toml
